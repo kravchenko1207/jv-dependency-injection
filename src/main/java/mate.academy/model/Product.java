@@ -1,6 +1,5 @@
 package mate.academy.model;
 
-import mate.academy.lib.Component;
 import mate.academy.lib.Inject;
 
 import java.math.BigDecimal;
